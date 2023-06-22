@@ -1,0 +1,9 @@
+_G.loop = false;
+while _G.loop do wait()
+
+local A_1 = 1
+local Event = Local Event = game:GetService("ReplicatedStorage")["events-MW9"]["24544c8f-aea1-4378-a7aa-bdcbdf56e355"]
+Event:FireServer(A_1)
+
+wait(10)
+end
