@@ -6,4 +6,3 @@ local Event = Local Event = game:GetService("ReplicatedStorage")["events-MW9"]["
 Event:FireServer(A_1)
 
 wait(10)
-end
